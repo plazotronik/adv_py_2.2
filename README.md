@@ -7,3 +7,4 @@ https://github.com/netology-code/py-homework-advanced/tree/master/2.2.Regexp
 #### Модуль ***main.py***
 * Приведение содержимого файла ```phonebook_raw.csv``` к требуемому виду
 * Удаление дублей
+* Запись "правильного" содержимого в файл ```phonebook.csv```
